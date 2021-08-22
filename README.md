@@ -5,7 +5,7 @@
 - PLEASE... feel free to use any code and make changes, whatever you want.   
 - nothing is copyrighted but it would be nice to be mentioned :)
 - I prefer Python and Arduino as coding languages, HOWEVER... open to learn others. 
-- I did some Lua programming as a kid for Roblox and have dabbled in c# in Unity Game Engine.
+- I did some Scratch and then some Lua programming as a kid for Roblox and have dabbled in c# in Unity Game Engine.
 - I can also do ROBOTC for VEX Robotics Systems and have used simulink For VEX Competitions (Lead Programmer at School)
 - I also did a co-op with Lead cad designer and created virtual representation of the years robot. (In Simulink) (CAD software was AutoDesk_Inventor)
 - (please note any code provided is vulnerable to hacking, i just try to get things to work)
