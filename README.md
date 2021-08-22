@@ -9,6 +9,8 @@
 - I can also do ROBOTC for VEX Robotics Systems and have used simulink For VEX Competitions (Lead Programmer at School)
 - I also did a co-op with Lead cad designer and created virtual representation of the years robot. (In Simulink) (CAD software was AutoDesk_Inventor)
 - Love to learn extremely complicated stuff. Please confuse me with suggestions and example code of your own.
+- (please note that any code provided is very likely to be unsecure against hacking, i just try to get things to work)
+- No code will be uploaded with malicious content i.e. Virus/keylogger etc. . I want others to learn from a safe, open source environment.
 
 
 <!---
