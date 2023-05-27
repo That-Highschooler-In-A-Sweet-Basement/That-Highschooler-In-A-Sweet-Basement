@@ -8,7 +8,6 @@
 - I did some Scratch and then some Lua programming as a kid for Roblox and have dabbled in c# in Unity Game Engine.
 - I can also do ROBOTC for VEX Robotics Systems and have used simulink For VEX Competitions (Lead Programmer at School)
 - I also did a co-op with Lead cad designer and created virtual representation of the years robot. (In Simulink) (CAD software was AutoDesk_Inventor)
-- (please note any code provided is vulnerable to hacking, i just try to get things to work)
 - I Love to learn extremely complicated stuff. Please confuse me with suggestions and example code of your own.
 
 <!---
