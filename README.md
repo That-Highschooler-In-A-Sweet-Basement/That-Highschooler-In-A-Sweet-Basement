@@ -1,5 +1,5 @@
 - 👋 Hi, I’m That-Highschooler-In-A-Sweet-Basement
-- 👀 I’m interested in ... Computer_Science/AI, Robotics, and possibly Penetration Testing
+- 👀 I’m interested in ... Computer_Science/AI, Robotics, and possibly Penetration Testing, also i throughly enjoy beatsaber.
 - 🌱 I’m currently learning ... ALL THE ABOVE ON MY OWN TIME
 - 📫 How to reach me ... iaalscheer@gmail.com (dont count on me to be speedy, i get very busy)
 - PLEASE... feel free to use any code and make changes, whatever you want.   
